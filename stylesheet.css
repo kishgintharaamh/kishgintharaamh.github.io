@@ -1,0 +1,31 @@
+body
+    {
+        background-color: #fad6a5;
+    }
+            
+    
+    
+.logo
+    {
+        padding: 10px;
+        margin: 30px 40px 40px 40px;
+        background-color: #C6C6BF;
+    }
+        
+.template
+    {
+        padding: 20px;
+        margin: 30px 40px 40px 40px;
+        background-image: url("https://lh3.googleusercontent.com/NDgC1UUt3OjFNipqQ6tbhaqvIjcDsS_m8GivMe0MkNLHRs9efpT1wLkAhdIAvc2ktL9SFgJrHA8LW3M6PLDUXAw=s300");
+        background-repeat: no-repeat;
+        background-color: #FCFCF7;
+        background-position: center;
+    }
+        
+.format
+    {
+        padding: 30px;
+        color: #00000;
+        font-family: URW Chancery L, cursive;
+        font-size: 30px;
+    }
